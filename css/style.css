@@ -1,0 +1,50 @@
+.th-sm{
+	font-weight: 600 !important;
+}
+
+.dataTables_length.bs-select{
+	text-align: left;
+	font-size: 80%;
+}
+.dataTables_filter{
+	font-size: 80%;
+}
+
+#buttom-search{
+	padding-left: 1.1em;
+    padding-right: 1.1em;
+    padding-bottom: .7em;
+    padding-top: .8em;
+}
+
+#buttom-search i{
+	font-size: 16px;
+}
+
+.btn{
+	margin: 0 !important;
+}
+
+.btn-danger{
+	border-radius: 5px;
+	padding-left: .7em;
+    padding-right: .7em;
+    padding-bottom: .3em;
+    padding-top: .3em;
+}
+
+
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+form#filtro-usuarios{
+	background-color: rgba(0,0,0,.03);
+
+	border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+
+    padding: 2%;
+}
