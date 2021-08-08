@@ -10,7 +10,7 @@
               <td style='display:none;' name='iduser'>".$row["idusuario"]."</td>
               <td>".$row["fecha"]."</td>
               <td>".$row["nombre"]."</td>
-              <td>".$row["telefono"]."</td>
+              <td>".$row["telefonoo"]."</td>
               <td>".$row["correo"]."</td>
               <td>
                 <form method='POST' action='' id='form_delete_user'>
